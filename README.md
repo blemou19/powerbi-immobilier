@@ -57,3 +57,6 @@ Ce projet vise à analyser le **marché immobilier** à l’aide de **Power BI**
 - Création de mesures DAX  
 - Conception de dashboards décisionnels  
 - Analyse et interprétation de données immobilières
+
+
+Projet réalisé par Rémy Bakary BLEMOU
