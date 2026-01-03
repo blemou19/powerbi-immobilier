@@ -16,7 +16,7 @@ Ce projet présente une analyse du marché immobilier à l’aide de **Power BI*
 ![Arbre décisionnel](screen_dashboards/Descision_tree.png)
 
 ### Tendance – répartition des biens au m²
-![Tendance](screen_dashboards/tendance_m²302\262.png)
+![Tendance](screen_dashboards/Tendance_m2.png)
 
 ---
 
